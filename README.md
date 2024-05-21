@@ -29,7 +29,10 @@
 
 ###
 
-<p align="left">I'm  Hossam Elganiny from Egypt <br><br>- 🔭 I’m working as     Asp.net Core developer <br>- 📚 I'm currently learning Angular <br>- ⚡ In my free time I'm reading articles</p>
+<p align="left">I'm  Hossam Elganiny from Egypt Cairo<br><br>- 🔭 I’m working as     Asp.net Core developer <br>- 📚 I'm currently learning Angular <br>- ⚡ In my free time I'm reading articles
+<br>- 📞 +201127929624
+<br>- hossamelsayed676@gmail.com 
+</p>
 
 ###
 
